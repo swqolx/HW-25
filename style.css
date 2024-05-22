@@ -1,0 +1,11 @@
+.cube-1{    width: 200px;
+    height: 200px;    background-color: #de92db;
+}
+.cube-2{    width: 200px;
+    height: 200px;    background-color: rgb(73, 163, 168);
+    position: absolute;    left: 85px;
+    top: 85px;}
+.cube-3{
+    width: 200px;    height: 200px;
+    background-color: rgb(172, 95, 181);    margin-left: 150px;
+    margin-top: 30px;}
